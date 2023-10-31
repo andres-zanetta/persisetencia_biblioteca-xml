@@ -1,0 +1,6 @@
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_BE\bin\Debug\Biblioteca_BE.dll
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_BE\bin\Debug\Biblioteca_BE.pdb
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_BE\obj\Debug\Biblioteca_BE.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_BE\obj\Debug\Biblioteca_BE.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_BE\obj\Debug\Biblioteca_BE.dll
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_BE\obj\Debug\Biblioteca_BE.pdb

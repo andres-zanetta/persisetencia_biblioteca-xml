@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <ListaLibros>
+    <Nombrelibro>aaaaaa</Nombrelibro>
+    <Autor>aaaaaaa</Autor>
+    <Editorial>aaaaaaa</Editorial>
+    <Periodo>10</Periodo>
+  </ListaLibros>
+  <ListaLibros>
+    <Nombrelibro>aaaaaa</Nombrelibro>
+    <Autor>aaaaa</Autor>
+    <Editorial>aaaaa</Editorial>
+    <Periodo>10</Periodo>
+  </ListaLibros>
+  <ListaLibros>
+    <Nombrelibro>aaaaa</Nombrelibro>
+    <Autor>aaaaaa</Autor>
+    <Editorial>aaaaa</Editorial>
+    <Periodo>10</Periodo>
+  </ListaLibros>
+  <ListaLibros>
+    <Nombrelibro>aaaaaaa</Nombrelibro>
+    <Autor>aaaaaaaa</Autor>
+    <Editorial>aaaaa</Editorial>
+    <Periodo>12</Periodo>
+  </ListaLibros>
+</DocumentElement>

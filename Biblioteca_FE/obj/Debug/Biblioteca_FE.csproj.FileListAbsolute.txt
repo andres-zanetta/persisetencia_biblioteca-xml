@@ -1,0 +1,15 @@
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\bin\Debug\Biblioteca_FE.exe.config
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\bin\Debug\Biblioteca_FE.exe
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\bin\Debug\Biblioteca_FE.pdb
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\bin\Debug\Biblioteca_BE.dll
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\bin\Debug\Biblioteca_BE.pdb
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.csproj.AssemblyReference.cache
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.csproj.SuggestedBindingRedirects.cache
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.Form1.resources
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.Form2.resources
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.Properties.Resources.resources
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.csproj.GenerateResource.cache
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.csproj.CopyComplete
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.exe
+C:\Users\mauri\Desktop\BibliotecaUltimaActualizacion-master\Biblioteca_FE\obj\Debug\Biblioteca_FE.pdb
